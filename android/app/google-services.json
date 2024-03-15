@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180272766150",
+    "firebase_url": "https://dreamchat-96bf6-default-rtdb.firebaseio.com",
+    "project_id": "dreamchat-96bf6",
+    "storage_bucket": "dreamchat-96bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180272766150:android:9adbe0ec4de6e4131b8bc7",
+        "android_client_info": {
+          "package_name": "com.example.dreamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180272766150-p7cko73irbchavp5gudva42q5jsetgv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dreamchat",
+            "certificate_hash": "943f93f2d0fa9aad407630b59e3fcf89e43f4205"
+          }
+        },
+        {
+          "client_id": "180272766150-nf0amt84qk54mgm6japo6o1aiu2s1d40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zLb6TUF5JgNAQ9nByyXfZTiOSoNe--Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180272766150-nf0amt84qk54mgm6japo6o1aiu2s1d40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180272766150-o8gcvp9sg5r3cvup808gs4cdtidubu79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dreamchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
