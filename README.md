@@ -2,6 +2,23 @@
 
 A new Flutter project.
 
+Dream chat is build on flutter and firebase using Flutter feature first architucture Using Riverpod state management. 
+
+Google sign up
+Mobile Number Login
+Real time database
+Firebase firestore
+Real time text chat
+Audio chat video chat
+Firebase function
+Local storage
+Zego cloud
+Story_view
+Flutter contact
+shared_preferences
+Audio message send
+Pictures message
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
